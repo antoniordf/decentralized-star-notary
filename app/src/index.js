@@ -32,6 +32,7 @@ const App = {
   },
 
   createStar: async function () {
+    App.setStatus("Waiting on transaction success...");
     const { createStar } = this.meta.methods;
     const name = document.getElementById("starName").value;
     const symbol = document.getElementById("starSymbol").value;
