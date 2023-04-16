@@ -148,3 +148,7 @@ compilers: {
 ---
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
+
+Contract Addresses:
+Migrations.sol: 0xaC3be45a584017b5EB60670b1EF6459f38B2A6a5
+StarNotary.sol: 0x43cCDBB8275A6a36FE6D735cBE69C7E866D65769
